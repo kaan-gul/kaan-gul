@@ -8,10 +8,10 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 
 ### 🚀 Öne Çıkan Başarılar & Projeler
 
-* **Anlio Mobil Uygulama:** T3 Deneyap Girişim Programı (2. Dönem) kapsamında **150.000 TL hibe desteği** alan mobil uygulama girişimimizin Kurucu Ortağıyım. (Play Store'da yayında!)
+* **Anlio Mobil Uygulama:** T3 Deneyap Girişim Programı (2. Dönem) kapsamında hibe desteği alan mobil uygulama girişimimizin Kurucu Ortağıyım. (Play Store ve App Store'da yayında.)
 * **T3 Vakfı Eğitmen Mentor:** Mezunu olduğum Deneyap Teknoloji Atölyeleri'nde geleceğin teknoloji yıldızlarına rehberlik ediyorum.
 * **Kutay Roket Takımı:** Aviyonik sistemler üzerine çalışmaı yürütüyor, gömülü sistemler ve haberleşme protokolleri üzerine odaklanıyorum.
-* **Teknofest:** Tarım ve Eğitim Teknolojileri kategorilerinde **Finalist** derecesi.
+* **Teknofest:** 2024 Tarım Teknolojileri ve 2025 Eğitim Teknolojileri kategorilerinde **Finalist** derecesi.
 * **BTM:** Erken Girişimci Geliştirme Programı **İkincilik Ödülü**.
 
 ---
@@ -25,7 +25,7 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 
 **Araçlar & Platformlar**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,arduino,androidstudio,firebase,pycharm,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,arduino,raspberrypi,androidstudio,firebase,pycharm,idea" />
 </p>
 
 ---
