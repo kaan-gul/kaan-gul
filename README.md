@@ -40,8 +40,6 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaan-gul&layout=compact&theme=merko&hide=html,css" alt="Kaan's Top Langs" />
 </p>
 
-<img src="./github-metrics-top-langs.svg" alt="Kaan's Top Langs" />
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaan-gul&theme=merko" alt="Kaan's Streak" />
 </p>
