@@ -1,6 +1,6 @@
 # Merhaba, Ben Kaan GÜL
 
-### 💻 Bilgisayar Mühendisliği Öğrencisi | 🎓 T3 Vakfı Eğitmen Mentor | 💡 Girişimci
+### Bilgisayar Mühendisliği Öğrencisi | T3 Vakfı Eğitmen Mentor | Girişimci
 
 Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik temelleri üzerine inşa ediyorum. **#MilliTeknolojiHamlesi** vizyonuyla üretiyor, paylaşıyor ve geliştiriyorum.
 
@@ -20,7 +20,7 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 
 **Diller & Frameworkler**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,kotlin,flutter,cpp,cs,dart,java" />
+  <img src="https://skillicons.dev/icons?i=py,kotlin,flutter,c,dart,java" />
 </p>
 
 **Araçlar & Platformlar**
@@ -34,10 +34,6 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaan-gul&show_icons=true&theme=merko" alt="Kaan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaan-gul&layout=compact&theme=merko&hide=html,css" alt="Kaan's Top Langs" />
 </p>
 
 <p align="center">
