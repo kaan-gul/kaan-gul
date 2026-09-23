@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.40101194028" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="434.40101194028" y="0" width="10.821583592130228" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="445.22259553241025" y="0" width="9.415438810332569" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="454.6380343427428" y="0" width="3.6113636865449132" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.2493980292877" y="0" width="0.8386905509477603" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.0880885802355" y="0" width="0.4149771649884332" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.5030657452239" y="0" width="0.35056920915874323" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.85363495438264" y="0" width="0.14636504561732458" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.5731542316469" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="431.5731542316469" y="0" width="11.635768555005749" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="443.2089227866527" y="0" width="10.751137396703708" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="453.96006018335635" y="0" width="4.30073389046522" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.26079407382156" y="0" width="0.8332308547811653" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.0940249286028" y="0" width="0.41227575237045205" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.5063006809732" y="0" width="0.34828707856217533" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.8545877595354" y="0" width="0.14541224046460477" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,18 +40,18 @@
                                 C
                             </div>
                             <small>
-                                <div>94.44%</div>
+                                <div>93.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dart
+                                Assembly
                             </div>
                             <small>
-                                <div>2.05%</div>
+                                <div>2.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,12 +81,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Assembly
+                                Dart
                             </div>
                             <small>
-                                <div>2.35%</div>
+                                <div>2.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>0.79%</div>
+                                <div>0.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
